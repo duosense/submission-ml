@@ -3,7 +3,7 @@ const { getFirestore, FieldValue } = require('firebase-admin/firestore');
 const admin = require('firebase-admin');
 
 // Path ke kredensial
-const googleCredsPath = "/mnt/d/SEMESTER 7/BANGKIT/Belajar ML Cloud Computing/submission/submissionmlgc-anggitatantri-9e15b94ece24.json";
+const googleCredsPath = "";
 
 // Menginisialisasi aplikasi Firebase dengan kredensial
 initializeApp({
